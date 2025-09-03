@@ -257,3 +257,6 @@ Output:
 
 <img width="574" height="369" alt="Screenshot 2025-09-03 085105" src="https://github.com/user-attachments/assets/a2064aa4-78b7-48aa-9ffb-68d721d85942" />
 
+Result:
+Thus,the C program for the implimentation of playfair cipher was successfully executed.
+
